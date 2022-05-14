@@ -2,10 +2,12 @@
 
 训练所需的yolo_weights.pth以及自己最终训练得到的最佳模型best_epoch_weights.pth下载链接：
 
-
+链接：https://pan.baidu.com/s/1yYnK9vKExJ48A_Xk7qzlBg?pwd=ux2o 
+提取码：ux2o 
 
 VOC数据集下载链接：
-
+链接：https://pan.baidu.com/s/1dzvjgElvVuyoHOpjQcqLtA?pwd=cl26 
+提取码：cl26 
 
 
 ### 训练模型
